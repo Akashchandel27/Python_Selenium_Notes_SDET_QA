@@ -4,7 +4,8 @@ Selenium WebDriver
 What is Web Driver???
 
 
--> Webdriver is one of the component in selenium
+
+-> Webdriver is one of the component in selenium.
 -> WebDriver is module
 
 Firefox browser ---- > Firefox()
